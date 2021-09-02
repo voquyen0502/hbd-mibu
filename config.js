@@ -1,0 +1,15 @@
+const CONFIG = {
+    introTitle: 'Hee loo! :v',
+    introDesc: 'Chào mứng đến với minigame của anh :>',
+    btnIntro: '??? ._.',
+    title: 'Đố em biết hôm nay là ngày gì? :>',
+    desc: 'Trả lời đúng mới có quà nhen, mà trả lời sai thì... ',
+    btnYes: 'Hii, sinh nhật em :33',
+    btnNo: 'Gì, ai biết gì đâu 😶',
+    question:'Đúng rùi :> Thế em còn nhớ sinh nhật của anh là ngày mấy không? 🙄',
+    btnReply: 'Gửi ._.',
+    reply: 'Hic, không biết :<',
+    mess: 'Biết mà :(( hoi khum sao',
+    messDesc: 'vì là sinh nhật em nên anh sẽ tha thứ :>',
+    btnAccept: 'Còn giờ thì...',
+}
